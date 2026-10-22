@@ -1,0 +1,14 @@
+# Consistent text files across Windows and Linux
+* text=auto
+*.md text eol=lf
+*.yml text eol=lf
+*.yaml text eol=lf
+*.json text eol=lf
+*.svg text eol=lf
+.gitignore text eol=lf
+.gitattributes text eol=lf
+
+# Preserve binary image data
+*.gif binary
+*.png binary
+*.webp binary

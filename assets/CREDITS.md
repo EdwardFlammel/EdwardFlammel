@@ -19,5 +19,5 @@ visual layers within the exported GIF; the README embeds a single image.
 
 ## Original graphics
 
-`edwardfammel-reload.svg` is retained as the editable geometric banner source.
+`banner-source.svg` is retained as the editable geometric banner source.
 The Arcana SVG icons were also created for this profile.
