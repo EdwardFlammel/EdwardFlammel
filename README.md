@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/edwardfammel-reload.svg" width="100%" alt="EdwardFammel Reload — Mitsuru-inspired burgundy and ivory profile banner with a moon and animated clock" />
+  <img src="assets/edwardfammel-reload.svg" width="100%" alt="Edward — Mitsuru-inspired burgundy and ivory profile banner with a moon and animated clock" />
 </p>
 
 <p align="center">

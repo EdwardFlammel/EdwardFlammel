@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1280" height="400" viewBox="0 0 1280 400" role="img" aria-labelledby="title desc">
-  <title id="title">EdwardFammel Reload — Backend, infrastructure and the Dark Hour</title>
+  <title id="title">Edward — Backend, infrastructure and the Dark Hour</title>
   <desc id="desc">Original burgundy, crimson, ivory and black geometric banner inspired by Mitsuru Kirijo and Persona 3 Reload menu aesthetics. A rotating clock surrounds a moon on the right.</desc>
   <defs>
     <linearGradient id="crimson" x2="1" y2="1"><stop stop-color="#5c1026"/><stop offset="1" stop-color="#b32846"/></linearGradient>
@@ -14,12 +14,10 @@
     <path fill="#310f1c" d="M0 316L665 274L580 400H0Z"/>
     <path fill="#b32846" d="M0 0H1280V7H0Z"/>
     <g fill="#f4e9e3" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" letter-spacing="3">
-      <text x="64" y="57">PROFILE / 01</text>
       <text x="64" y="354">BACKEND · INFRASTRUCTURE · HOMELAB</text>
     </g>
     <g transform="translate(58 0) skewX(-9)" font-family="Arial, Helvetica, sans-serif" font-weight="900">
-      <text x="0" y="174" fill="#fff" font-size="72" letter-spacing="-3">EdwardFammel</text>
-      <text x="5" y="254" fill="#f4e9e3" font-size="75" letter-spacing="14">RELOAD</text>
+      <text x="0" y="225" fill="#fff" font-size="126" letter-spacing="-5">Edward</text>
     </g>
     <g transform="translate(1052 196)">
       <circle r="128" fill="none" stroke="#773045" stroke-width="1"/>
