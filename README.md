@@ -16,11 +16,11 @@
 
 ## 01 / PLAYER STATUS
 
-Hey, I'm **Eduardo**, also known as **EdwardFammel**.
+Hey, I'm **Eduardo** — you can call me **Edward**.
 
-I work with production environments and backend development, with a focus on continuous improvement. **Python** is my favorite language, and my homelab is where I explore infrastructure, automation and deployment workflows.
+I work with backend development and production environments, building tools and improving everyday workflows. **Python** is my go-to language, and my homelab is where I experiment with self-hosting, infrastructure and deployment automation.
 
-Outside the terminal: games, anime and music. This profile combines the menu aesthetic of **Persona 3 Reload** with a burgundy, crimson and ivory palette inspired by **Mitsuru Kirijo**.
+Away from the terminal, you'll find me playing games, watching anime or listening to music.
 
 | STATUS | CURRENT LOADOUT |
 | :--- | :--- |
