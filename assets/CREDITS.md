@@ -2,7 +2,7 @@
 
 ## Animated profile banner
 
-`edward-mitsuru-banner.gif` combines the original geometric banner with a masked
+`edward-mitsuru-clock.gif` combines the original geometric banner with a masked
 section of the user-supplied video `mitsuru-kirijo-persona-3-reload-moewalls-com.mp4`.
 The animation is confined to the burgundy area using a diagonal mask and a soft
 fade behind the name. The text, divider, lower panel and moon remain separate

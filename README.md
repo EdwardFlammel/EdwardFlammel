@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/edward-mitsuru-banner.gif" width="100%" alt="Edward — animated Mitsuru scene inside the burgundy banner, with a diagonal divider and moon clock" />
+  <img src="assets/edward-mitsuru-clock.gif" width="100%" alt="Edward — animated Mitsuru scene inside the burgundy banner, with a diagonal divider and rotating moon clock" />
 </p>
 
 <p align="center">
