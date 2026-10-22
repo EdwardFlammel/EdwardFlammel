@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/edwardfammel-reload.svg" width="100%" alt="Edward — Mitsuru-inspired burgundy and ivory profile banner with a moon and animated clock" />
+  <img src="assets/edward-mitsuru-banner.gif" width="100%" alt="Edward — animated Mitsuru scene inside the burgundy banner, with a diagonal divider and moon clock" />
 </p>
 
 <p align="center">
@@ -98,4 +98,4 @@ The next floor: Kubernetes, cloud infrastructure and new backend tools. Currentl
   <a href="https://github.com/EdwardFlammel">GitHub / EdwardFlammel</a>
 </p>
 
-<p align="center"><sub>Fan-made profile inspired by Persona 3 Reload and Mitsuru Kirijo. Original geometric banner; no official game artwork used.</sub></p>
+<p align="center"><sub>Fan-made profile inspired by Persona 3 Reload and Mitsuru Kirijo. Original banner composition with a fan-provided Mitsuru animation. Persona character artwork © ATLUS / SEGA. <a href="assets/CREDITS.md">Visual credits</a>.</sub></p>

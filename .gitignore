@@ -24,3 +24,6 @@ Thumbs.db
 .idea/
 
 # Keep assets/, profile-3d-contrib/ and .github/ tracked.
+
+# Source video; only the optimized GIF is published
+*.mp4
