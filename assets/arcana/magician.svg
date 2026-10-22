@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="80" height="120" viewBox="0 0 80 120" role="img" aria-labelledby="title">
+  <title id="title">I — The Magician Arcana</title>
+  <rect x="1" y="1" width="78" height="118" rx="7" fill="#140d14" stroke="#cba881" stroke-width="2"/>
+  <rect x="7" y="7" width="66" height="106" rx="3" fill="#310f1c" stroke="#9b2340"/>
+  <path d="M14 32H66M14 94H66" stroke="#773045"/>
+  <text x="40" y="25" text-anchor="middle" font-family="Georgia,serif" font-size="16" fill="#f0d7bd">I</text>
+  <g stroke="#f4e9e3" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none"><path d="M29 77L51 43M26 74L32 80M48 40L54 46"/><path d="M25 42V52M20 47H30M55 66V76M50 71H60"/></g>
+  <text x="40" y="106" text-anchor="middle" font-family="Arial,sans-serif" font-size="8" letter-spacing="1" fill="#f0d7bd">MAGICIAN</text>
+</svg>

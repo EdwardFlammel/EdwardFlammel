@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="80" height="120" viewBox="0 0 80 120" role="img" aria-labelledby="title">
+  <title id="title">VIII — The Justice Arcana</title>
+  <rect x="1" y="1" width="78" height="118" rx="7" fill="#140d14" stroke="#cba881" stroke-width="2"/>
+  <rect x="7" y="7" width="66" height="106" rx="3" fill="#310f1c" stroke="#9b2340"/>
+  <path d="M14 32H66M14 94H66" stroke="#773045"/>
+  <text x="40" y="25" text-anchor="middle" font-family="Georgia,serif" font-size="16" fill="#f0d7bd">VIII</text>
+  <g stroke="#f4e9e3" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none"><path d="M40 42V83M27 83H53M21 51H59M26 51L18 69H34ZM54 51L46 69H62Z"/><circle cx="40" cy="44" r="3"/></g>
+  <text x="40" y="106" text-anchor="middle" font-family="Arial,sans-serif" font-size="8" letter-spacing="1" fill="#f0d7bd">JUSTICE</text>
+</svg>

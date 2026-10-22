@@ -1,0 +1,26 @@
+# Local credentials
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Local tooling, dependencies and caches
+.codex-tools/
+node_modules/
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.cache/
+
+# Temporary files and editor/OS metadata
+*.log
+*.tmp
+*.bak
+*~
+.DS_Store
+Thumbs.db
+.idea/
+
+# Keep assets/, profile-3d-contrib/ and .github/ tracked.

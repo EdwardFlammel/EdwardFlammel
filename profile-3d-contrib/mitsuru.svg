@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="240" viewBox="0 0 1000 240" role="img" aria-labelledby="title desc">
+  <title id="title">Dark Hour Activity Log — awaiting first generation</title>
+  <desc id="desc">The 3D calendar will be generated from real GitHub contributions after the Dark Hour Activity Log workflow runs.</desc>
+  <rect width="1000" height="240" rx="12" fill="#140d14"/>
+  <path d="M0 0H1000V5H0Z" fill="#9b2340"/>
+  <path d="M855 5H870L700 240H685Z" fill="#5c1026"/>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="48" y="63" fill="#b68794" font-size="12" letter-spacing="4">GITHUB / CONTRIBUTIONS</text>
+    <text x="48" y="111" fill="#f4e9e3" font-size="30" font-weight="700">DARK HOUR / ACTIVITY LOG</text>
+    <text x="48" y="156" fill="#f0d7bd" font-size="15">Awaiting the first GitHub Actions run.</text>
+    <text x="48" y="188" fill="#b68794" font-size="13">Your real contribution calendar will appear here automatically.</text>
+  </g>
+</svg>

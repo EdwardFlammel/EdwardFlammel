@@ -1,0 +1,17 @@
+{
+  "type": "normal",
+  "fileName": "mitsuru.svg",
+  "backgroundColor": "#140d14",
+  "foregroundColor": "#f4e9e3",
+  "strongColor": "#f0d7bd",
+  "weakColor": "#b68794",
+  "radarColor": "#cf4d69",
+  "growingAnimation": true,
+  "contribColors": [
+    "#2a1721",
+    "#5c1026",
+    "#9b2340",
+    "#cf4d69",
+    "#f0d7bd"
+  ]
+}

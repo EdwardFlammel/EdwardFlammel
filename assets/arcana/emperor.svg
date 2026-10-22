@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="80" height="120" viewBox="0 0 80 120" role="img" aria-labelledby="title">
+  <title id="title">IV — The Emperor Arcana</title>
+  <rect x="1" y="1" width="78" height="118" rx="7" fill="#140d14" stroke="#cba881" stroke-width="2"/>
+  <rect x="7" y="7" width="66" height="106" rx="3" fill="#310f1c" stroke="#9b2340"/>
+  <path d="M14 32H66M14 94H66" stroke="#773045"/>
+  <text x="40" y="25" text-anchor="middle" font-family="Georgia,serif" font-size="16" fill="#f0d7bd">IV</text>
+  <g stroke="#f4e9e3" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none"><path d="M22 50L30 61L40 45L50 61L58 50L54 75H26Z"/><path d="M27 82H53M30 69H50"/></g>
+  <text x="40" y="106" text-anchor="middle" font-family="Arial,sans-serif" font-size="8" letter-spacing="1" fill="#f0d7bd">EMPEROR</text>
+</svg>

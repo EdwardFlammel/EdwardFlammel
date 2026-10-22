@@ -1,0 +1,54 @@
+name: Dark Hour Activity Log
+
+on:
+  schedule:
+    # 03:23 America/Sao_Paulo (06:23 UTC).
+    - cron: "23 6 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - README.md
+      - .github/profile-3d-settings.json
+      - .github/workflows/profile-3d.yml
+
+concurrency:
+  group: profile-3d-${{ github.ref }}
+  cancel-in-progress: false
+
+permissions:
+  contents: read
+
+jobs:
+  activity:
+    if: github.ref == 'refs/heads/main'
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v5
+
+      - name: Generate Mitsuru contribution calendar
+        # Pinned upstream revision; supports custom colors and growing animation.
+        uses: yoshi389111/github-profile-3d-contrib@e235d118909be71eb7edb05482a3de4e76156df3
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+          SETTING_JSON: .github/profile-3d-settings.json
+
+      - name: Commit updated calendar
+        run: |
+          set -eu
+          test -s profile-3d-contrib/mitsuru.svg
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -- profile-3d-contrib/mitsuru.svg
+          if git diff --cached --quiet; then
+            echo "Contribution calendar is already up to date."
+            exit 0
+          fi
+          git commit -m "chore: update Dark Hour activity log"
+          git pull --rebase origin main
+          git push origin HEAD:main
